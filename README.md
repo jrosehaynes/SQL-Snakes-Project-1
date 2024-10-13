@@ -56,6 +56,7 @@ In summary, our hospital management data model effectively organizes and tracks 
 
 
 5.Write an SQL query that retrieves the names of treatments, their costs, and the first and last names of patients who received treatments that are more expensive than the average treatment cost. The results should be ordered by treatment cost in descending order
+<img width="620" alt="Screenshot 2024-10-13 at 5 22 10 PM" src="https://github.com/user-attachments/assets/1f2c6f0a-1d99-4afc-b1a2-7100b67f3416">
 
 
 
@@ -68,7 +69,8 @@ SIMPLE QUERIES
 <img width="645" alt="Screenshot 2024-10-13 at 5 16 07 PM" src="https://github.com/user-attachments/assets/afef2d81-2acb-41d4-9a3b-1eb5f68f2cee">
 
 8. Query to get all billing information for a specific patient. Allows office employees to find different billing information for a patient easily without searching through multiple tables. This query also minimizes any errors and ensures that billing details are for the correct individual.
-   
+   <img width="634" alt="Screenshot 2024-10-13 at 5 21 51 PM" src="https://github.com/user-attachments/assets/32b4de60-f29b-4192-9900-ff89a23299e1">
+
 9. Query to get treatments provided by a healthcare provider. This query provides accurate tracking about separate treatments, making it easy for the healthcare center to keep track of their workload and contributions to patient care. Also, having these accurate records increases accountability and supports performance evaluations based on treatments administered.
     <img width="643" alt="Screenshot 2024-10-13 at 5 17 19 PM" src="https://github.com/user-attachments/assets/c3f8e1c6-3459-4ea0-a476-60c65ab86353">
 
