@@ -64,8 +64,11 @@ In summary, our hospital management data model effectively organizes and tracks 
 SIMPLE QUERIES
 
 7.Query to retrieve all patient details, along with their associated insurance information:
+<img width="645" alt="Screenshot 2024-10-13 at 5 16 07 PM" src="https://github.com/user-attachments/assets/afef2d81-2acb-41d4-9a3b-1eb5f68f2cee">
 
+8. Query to get all billing information for a specific patient. Allows office employees to find different billing information for a patient easily without searching through multiple tables. This query also minimizes any errors and ensures that billing details are for the correct individual.
+   
+9. Query to get treatments provided by a healthcare provider. This query provides accurate tracking about separate treatments, making it easy for the healthcare center to keep track of their workload and contributions to patient care. Also, having these accurate records increases accountability and supports performance evaluations based on treatments administered.
+    <img width="643" alt="Screenshot 2024-10-13 at 5 17 19 PM" src="https://github.com/user-attachments/assets/c3f8e1c6-3459-4ea0-a476-60c65ab86353">
 
-8. jajaja
-9. jajajaja
-10. jajajjaa
+10. Query to count the number of unpaid bills. This query is a huge time-saver for hospital employees since it delivers results instantly, and one does not have to manually count each unpaid bill. The billing department can prioritize different tasks, and keep track of what periods retain the most unpaid bills.
