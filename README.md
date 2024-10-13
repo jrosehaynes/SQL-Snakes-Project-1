@@ -72,6 +72,8 @@ SIMPLE QUERIES
 7.Query to retrieve all patient details, along with their associated insurance information:
 <img width="645" alt="Screenshot 2024-10-13 at 5 16 07 PM" src="https://github.com/user-attachments/assets/afef2d81-2acb-41d4-9a3b-1eb5f68f2cee">
 
+Managerial Relevance: provides a comprehensive overview of patient details along with their insurance information. This query helps managers streamline administrative processes by making it easier to access key patient data. It also improves customer service by ensuring that staff can quickly retrieve information when handling patient inquiries or insurance issues.
+
 8. Query to get all billing information for a specific patient. Allows office employees to find different billing information for a patient easily without searching through multiple tables. This query also minimizes any errors and ensures that billing details are for the correct individual.
    <img width="634" alt="Screenshot 2024-10-13 at 5 21 51 PM" src="https://github.com/user-attachments/assets/32b4de60-f29b-4192-9900-ff89a23299e1">
 
