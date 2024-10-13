@@ -52,6 +52,7 @@ In summary, our hospital management data model effectively organizes and tracks 
    <img width="312" alt="Screenshot 2024-10-13 at 5 02 54 PM" src="https://github.com/user-attachments/assets/58567636-dd3f-4296-bd6a-a4f05c85e291">
    
 4.Find all Patients who have not been assigned a healthcare provider, display their ID and full name.
+<img width="649" alt="Screenshot 2024-10-13 at 5 20 47 PM" src="https://github.com/user-attachments/assets/93ec7790-571e-4ca0-87a5-7941e424a774">
 
 
 5.Write an SQL query that retrieves the names of treatments, their costs, and the first and last names of patients who received treatments that are more expensive than the average treatment cost. The results should be ordered by treatment cost in descending order
@@ -72,3 +73,6 @@ SIMPLE QUERIES
     <img width="643" alt="Screenshot 2024-10-13 at 5 17 19 PM" src="https://github.com/user-attachments/assets/c3f8e1c6-3459-4ea0-a476-60c65ab86353">
 
 10. Query to count the number of unpaid bills. This query is a huge time-saver for hospital employees since it delivers results instantly, and one does not have to manually count each unpaid bill. The billing department can prioritize different tasks, and keep track of what periods retain the most unpaid bills.
+
+    <img width="357" alt="Screenshot 2024-10-13 at 5 20 21 PM" src="https://github.com/user-attachments/assets/5f848583-1e32-44a5-92bc-c906762ea431">
+
