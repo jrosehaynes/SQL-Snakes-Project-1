@@ -54,10 +54,14 @@ In summary, our hospital management data model effectively organizes and tracks 
 4.Find all Patients who have not been assigned a healthcare provider, display their ID and full name.
 <img width="649" alt="Screenshot 2024-10-13 at 5 20 47 PM" src="https://github.com/user-attachments/assets/93ec7790-571e-4ca0-87a5-7941e424a774">
 
+Managerial Relevance: identifies patients who have not yet been assigned a healthcare provider, ensuring that no one is left without necessary medical attention. This query helps managers address gaps in patient care assignments quickly, improving patient satisfaction. It also ensures that the hospital operates efficiently, with all patients properly attended to.
+
 
 5.Write an SQL query that retrieves the names of treatments, their costs, and the first and last names of patients who received treatments that are more expensive than the average treatment cost. The results should be ordered by treatment cost in descending order
 <img width="620" alt="Screenshot 2024-10-13 at 5 22 10 PM" src="https://github.com/user-attachments/assets/1f2c6f0a-1d99-4afc-b1a2-7100b67f3416">
 
+
+Managerial Relevance: retrieves information on treatments that are more expensive than the average cost, along with the patients receiving them. This is useful for managing treatment costs and ensuring pricing strategies align with the hospital’s financial goals. It also allows managers to assess whether certain treatments are priced appropriately based on their complexity and necessity.
 
 
 6. blah blah blah
